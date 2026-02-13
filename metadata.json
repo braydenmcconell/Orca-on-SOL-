@@ -1,0 +1,7 @@
+{
+  "name": "Orca on Sol - $ORCA Landing Page",
+  "description": "A high-converting, cyberpunk-themed landing page for the Orca on Sol ($ORCA) meme coin, featuring AI-powered tools and interactive chase animations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
